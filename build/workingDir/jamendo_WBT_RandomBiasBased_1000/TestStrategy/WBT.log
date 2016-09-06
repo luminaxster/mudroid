@@ -1,0 +1,19 @@
+emulator-5554:INFO:Device Prepare Complete
+AppPackage:INFO:com.teleca.jamendo
+TargetAppID:INFO:10004
+WBT_emulator-5554:INFO:Added BackButton
+WBT_emulator-5554:INFO:New Screen appeared..old screen:Welcome to Jamendo Player!,T:0,L:0,H:800,W:480
+:NoOfChildren=31,new screen:Welcome to Jamendo Player!,T:0,L:0,H:800,W:480
+:NoOfChildren=26
+WBT_emulator-5554:INFO:1 Trying to get intermediate coverage
+WBT_emulator-5554:INFO:1 Execised ViewElement:(-1_01086391293:NO_ID,T:19,L:33,H:33,W:150,LONGPRESS_108_35,LONGPRESS_108_35)
+WBT_emulator-5554:INFO:Added BackButton
+WBT_emulator-5554:INFO:New Screen appeared..old screen:Welcome to Jamendo Player!,T:0,L:0,H:800,W:480
+:NoOfChildren=26,new screen:com.teleca.jamendo/com.teleca.jamendo.activity.HomeActivity,T:0,L:0,H:800,W:480
+:NoOfChildren=52
+WBT_emulator-5554:INFO:2 Execised ViewElement:(-1:MenuButton,T:-1,L:-1,H:-1,W:-1,KEYPRESS_82,KEYPRESS_82)
+WBT_emulator-5554:INFO:Added BackButton
+WBT_emulator-5554:INFO:New Screen appeared..old screen:com.teleca.jamendo/com.teleca.jamendo.activity.HomeActivity,T:0,L:0,H:800,W:480
+:NoOfChildren=52,new screen:AtchDlg:com.teleca.jamendo/com.teleca.jamendo.activity.HomeActivity,T:0,L:0,H:800,W:480
+:NoOfChildren=6
+WBT_emulator-5554:INFO:3 Execised ViewElement:(16908310_0-1254589339:id/title,T:701,L:3,H:99,W:235,TAPSCREEN_120_750,LONGPRESS_120_750,LONGPRESS_120_750)

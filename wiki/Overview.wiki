@@ -1,0 +1,42 @@
+#summary Overview of how Dynodroid works
+#labels Phase-Implementation,Featured
+
+= Overview =
+
+Dynodroid views an Android app as an event-driven program that interacts with its environment via events. Dynodroid generates a sequence of events to the given app using a novel "observe-select-execute" principle: it first observes which events are relevant to the app in the current state, then selects one of those events, and finally executes the selected event to yield a new state in which it repeats this process.
+
+For more details refer our paper: [http://pag.gatech.edu/pubs/dynodroid.pdf]
+
+= Implementation Details =
+ 
+We implemented this in Java. This heavily uses Threads for controlling various features: like logcat monitoring, kernel log monitoring, etc.
+
+When run, dynodroid creates several test profiles. Each test profiles will be run in a separate thread and is assigned a different working directory. 
+
+Each test profile runs as described below:
+ # Create and start the emulator. Exit if unsuccessful. 
+ # start 2 threads : one for logcat monitoring and other for kernel lo monitoring.
+ # if app with sources is provided, Build the app.
+ # Create various monitoring clients like: Kernel File Monitoring, Kernel Network Monitoring, SMS Send Monitoring etc. and add them to either logcat monitoring thread or kernel monitoring thread depending on the type of monitoring.
+ # Install and start the app.
+ # Event Loop:
+ {{{
+    i = 0;
+    while(i < totalNofEvents) {   
+       EventSet setE = observer.getNextEventSet();
+       Event e= selector.getNextEvent(setE);
+       executor.execute(e);
+       i++;
+    }
+ }}}
+ # kill the emulator and delete the avd files.
+
+  * We use the following logic to create the test profiles:
+  {{{
+
+    WidgetBasedTestingCombinations = NoOfDifferentSelectionStrategies * NoOfDifferentWidgetCounts;
+
+    RandomMonkeyTestingCombinations = NoOfDifferentEventCounts;
+
+    NoOfTestProfiles = TotalNoOfApps * (WidgetBasedTestingCombinations + RandomMonkeyTestingCombinations);
+  }}}

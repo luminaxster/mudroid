@@ -1,0 +1,11 @@
+#summary Describes all the available test strategies
+
+= Widget Based Testing =
+
+Here in this test strategy, we use our innovative observer-executor-selector technique to test the app. you can customize the selection strategies by the property: sel_stra
+
+for more details on this refer: [http://pag.gatech.edu/pubs/dynodroid.pdf]
+
+= RandomMonkeyTesting =
+
+we run monkey in this test strategy. for app provided as apk, this is same as running monkey but for app with sources we modified default monkey to dump the code coverage statistics. At the end of the run you will get neatly formatted Code coverage reports. Sample Code Coverage Report: [http://pag-www.gtisc.gatech.edu/dynodroid/coverage/coverage.html]  

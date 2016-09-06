@@ -1,0 +1,91 @@
+#summary Deploying and Running Dynodroid
+#labels Phase-Deploy,Phase-Support,Featured
+
+= Deployment =
+ 
+In this page we describe the steps for deployment of dynodroid and its dependencies.
+
+== Dependencies ==
+  * Tested Java Version : 1.6.0_24
+  * Android SDK: Gingerbread (2.3.x) , SDK tools and Platform tools.
+    * Detailed steps : [http://developer.android.com/sdk/index.html]
+  * Python
+
+= Running =
+
+*Note:* 
+  * Make sure that the path you have provided for property: avd_store doesn't contain any avd, as these will be re-used and might result in unexpected errors.
+  * Make sure that `<sdk_install_folder>/tools/ant/build.xml` has following changes ( these are present in latest sdk tools):
+    {{{
+
+       <property name="emma.coverage.absolute.file" location="coverage.em" />
+
+       <emma enabled="true">
+                        <instr verbosity="${verbosity}"
+                               mode="overwrite"
+                               instrpath="${out.absolute.dir}/classes"
+                               outdir="${out.absolute.dir}/classes"
+                               metadatafile="${emma.coverage.absolute.file}">
+                            <filter excludes="${emma.default.filter}" />
+                            <filter value="${emma.filter}" />
+                        </instr>
+         </emma>
+    }}}
+    These are required to compute the coverage statistics.
+
+
+   # Get the target number of the installed gingerbread version. Let it be: av
+     * run: android list targets
+   # Download the sources.
+   # Browse to the sources folder.
+   # python dynodroidsetup.py . `<Absolute_Path_To_an_Empty_Directory:say dd>`
+   # Browse to the deployed directory: dd
+   # Modify the dynodroid.properties as described in page: https://code.google.com/p/dyno-droid/wiki/dynodroidProperties
+   # Copy the apps to be tested to apps folder.
+     * for apks, copy the apk to the apps folder.
+     * for apps with sources, copy the entire project folder to the apps directory. Before that make sure that project is build-able by running : ant debug and ant installd in the app project folder. 
+   # run: _*ant run*_
+
+= Debugging =
+The build.xml provided with the sources contains support for debugging.
+To Debug, follow the same steps as Running , but instead of running : ant run, use _*ant debug*_.
+  * This will make the JVM wait for connection from a debugger, details are as shown below:
+   {{{
+      <jvmarg value="-Xdebug"/>        
+      <jvmarg value="-Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000"/>
+   }}}
+   You can then follow the usual steps for remote debugging. Refer: [http://javarevisited.blogspot.com/2011/02/how-to-setup-remote-debugging-in.html] for more details.
+
+= Output =
+Output of tool will be present in the directory provided under work_dir.
+
+*The structure of the logs is as explained below:*
+  * There will be one folder for each of the test profile in the format: `AppName_<TestStrategy>_<SelectionStrategy>_<NoofEvents>`.
+  *  Each folder will have the following structure:
+    # *_AppHandler_* : This folder contains all the log files of app handler, for an app with sources this doesn't contain much info, _but for apps provided as apk, this folder contains the extracted contents_.
+      * ApkExtractDir : for apps provided as apk, this contains the extracted (using apktool.jar) contents of the apk. 
+    # *_coverageHandler_* : usually empty directory
+    # *_CompleteTestProfile.log_* : High level log of the status of the test profile. Contains brief description of the result of major steps 
+    # *_TestStrategy_* : This folder is the main folder that contains many useful and important logs:
+      * *_PreviousLogs_* : Kernel logs and logcat contents after emulator start and before app install.
+      * *_MethodTraceFiles_* : usually empty directory.
+      * *_SelectionStrategyLog.log_* : This folder contains the log of the corresponding selection strategy, the various initialization, selection made at each event. etc.
+      * *_ODEX_Apk.dex_* : The optimized dex file that got installed on the emulator.
+      * *_GenerelLogCatLogs.log_* : File containing logcat entries which are not filtered by atleast one of the monitoring clients, could be useful in finding exceptions etc.
+      * *_GenerelKernelLogs.log_* : File containing kernel messages which are not filtered by atleast one of the monitoring clients.
+      * *_ResultMonkeyScript.txt_* : The script containing all the actions performed by dynodroid on to the emulator, this provides some sort of reply mechanism.
+      * *_ManifestInfo.txt_* : This file contains the information of the app from AndroidManifest.xml in human readable form.
+      * *_RunStats_* : *_This folder contains coverage report of the app, the folder Coverage1, Coverage2 etc contains intermediate reports and the folder FinalCoverageStats contains the final coverage report at the end of the testing_*.
+      * *_packages.list_* : This file contains the list of the packages that are present in the device after app installation.
+      * *_MonitoringLogs_* : This folder contains the logs of various monitoring clients ( each monitor the app for an activity) . Each of the below log files contain log entries along with the event which got trig-erred, for RandomMonkeyTesting these logs doesn't contain any events. These logs could be very useful especially for malware analysis.
+        * *_screenshots_*: This folder contains png files of the widgets exercised and the corresponding screens.
+        * *_KernelNetwork_monitoring.log_* : This file contains log entries for each of the major network event: open, listen and connect captured at kernel level.
+        * *_KernelFile_monitoring.log_* : This file contains logs entries for each of the file opened only by the app under test, monitored at kernel level.
+        * *_OutboundUrl_monitoring.log_* : This contains Urls being contacted by the app under test. This may not be the complete list of URLS contacted by the app.
+        * *_LOADLIB_monitoring.log_* : The libraries being loaded by the app under test using JNI.
+        * *_SMSSend_monitoring.log_* : The SMS messages being sent by the app under test.
+        * *_MethodsTrigerred.txt_* : The methods of the app executed as part of the test run. *_This is very useful for apk apps , as emma coverage report cannot be generated for apks._*
+        * *_DEXLOAD_monitoring.log_* : The files which are loaded by using Dexload feature of android.
+        * There are various other logs which are self explanatory by their name.
+      
+   

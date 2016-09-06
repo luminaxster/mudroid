@@ -1,0 +1,16 @@
+count = 3
+speed = 1000
+start data >>
+DispatchKey(5000,5000,4,0,0,0,0)
+DispatchKey(5000,5000,4,0,0,0,0)
+DispatchKey(5000,5000,4,0,0,0,0)
+DispatchKey(5000,5000,4,0,0,0,0)
+LongTap(108, 35)
+UserWait(3000)
+Snap():/home/denglin1021/dyno-droid/mudroid/build/workingDir/jamendo_WBT_RandomBiasBased_1000/TestStrategy/MonitoringLogs/screenshots/screens/11086391293.png
+DispatchKey(5000,5000,82,0,0,0,0)
+UserWait(3000)
+LongTap(120, 750)
+UserWait(3000)
+Snap():/home/denglin1021/dyno-droid/mudroid/build/workingDir/jamendo_WBT_RandomBiasBased_1000/TestStrategy/MonitoringLogs/screenshots/screens/3-1254589339.png
+Snap(3,701,238,800):/home/denglin1021/dyno-droid/mudroid/build/workingDir/jamendo_WBT_RandomBiasBased_1000/TestStrategy/MonitoringLogs/screenshots/16908310_3-1254589339.png
