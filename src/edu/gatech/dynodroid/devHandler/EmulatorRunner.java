@@ -78,7 +78,7 @@ public class EmulatorRunner implements Runnable {
 	@Override
 	public void run() {
 		String emulatorRunCommand = "emulator -avd " + emuName
-				+ " -verbose -scale 0.70 -show-kernel" +(PropertyParser.isManualMode?"":" -no-window") +" -kernel "
+				+ " -verbose -scale 0.70 -no-snapshot -show-kernel" +(PropertyParser.isManualMode?"":" -no-window") +" -kernel "
 				+ PropertyParser.kernelModulesLocation + "/zImage -system "
 				+ PropertyParser.customSystemImg + " -ramdisk "
 				+ PropertyParser.customRamDiskImg;
