@@ -40,4 +40,4 @@ chmod u+x rmOldFolders.sh
 ./rmOldFolders.sh
 
 mkdir formatLog
-mv appFolders.txt mkDirBatch.sh mvFiles.txt fixFolders.sh fixHiddenFolders.sh rmOldFolders.sh formatLog
+mv appFolders.txt mkDirBatch.sh mvFiles.txt mvFiles.sh fixFolders.sh fixHiddenFolders.sh rmOldFolders.sh formatLog
