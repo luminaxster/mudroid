@@ -1,0 +1,302 @@
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_25/MunchLife_hamzahafeez2000_MunchLife - 04"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_25/MunchLife_hamzahafeez2000_MunchLife - 03"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_27/MunchLife_hamzahafeez2000_MunchLife - 25"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_9/AndroidomaticKeyer_Bug6_AndroidomaticKeyerActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_13/Jamendo_shahzain93_jamendo - 3"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_13/Jamendo_shahzain93_jamendo - 4"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_13/Jamendo_shahzain93_jamendo - 7"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_13/Jamendo_shahzain93_jamendo - 9"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_13/JustSit_BeApart_JustSit_bug_1"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_14/JustSit_JitendraRamoliya_Fault14_JustSit"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_07 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_02 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_04 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_09 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_06 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_10 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_11 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_03 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_08 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_05 alarmclock"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_16/JustSit_NimainG_Fault8"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_shahzain93_13 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug13_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_shahzain93_15 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug11_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug15_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug10_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug14_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug16_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug12_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_shahzain93_12 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_17/JustSit_shahzain932_JustSit - 05"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_17/JustSit_shahzain932_JustSit - 03"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_17/JustSit_shahzain932_JustSit - 18"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_17/JustSit_shahzain932_JustSit - 04"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_17/JustSit_sajibdey_5_JustSit"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_8/AndroidomaticKeyer_Bug2_AndroidomaticKeyerActivity"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_19/JustSit_TechnoApp_Bug6_JustSit"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 21"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 08"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 23"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 17"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 13"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 18"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 07"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 10"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 19"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 09"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_14_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_1_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_2_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_3_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_12_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_6_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_9_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_8_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_4_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_13_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_34/Tipster_sajibdey_10_Tipster"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_34/Tipster_sajibdey_11_Tipster"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_30/Tipster_hamzahafeez2000_Tipster - 01"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_30/Tipster_hamzahafeez2000_Tipster - 02"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_7/AndroidomaticKeyer_Bug12_AndroidomaticKeyerActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_36/Tipster_TechnoApp_Bug4_Tipster"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_36/Tipster_sajibdey_8_Tipster"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_32/Tipster_hamzahafeez2000_Tipster - 25"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_32/Tipster_hamzahafeez2000_Tipster - 24"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_10/Jamendo_BeApart_25_jamendo"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_10 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_06 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_09 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain932_LolcatBuilder - 17"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_07 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain932_LolcatBuilder - 12"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_04 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_05 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain932_LolcatBuilder - 15"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain932_LolcatBuilder - 11"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 25"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 30"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 29"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 28"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 32"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 18"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 19"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 26"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 23"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 21"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_18/JustSit_shahzain93_JustSit-04"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_18/JustSit_shahzain932_JustSit - 24"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_11/Jamendo_JitendraRamoliya_fault12_jamendo"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_22/LolCat_shahzain93_02 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_22/LolCat_shahzain93_03 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug4_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug1_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug9_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug18_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug3_Alarm Klock"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_6/AndroidomaticKeyer_Bug10_AndroidomaticKeyerActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug6_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug7_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug8_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug17_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 10"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 06"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 14"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 17"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 08"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 04"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 02"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 03"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 16"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 13"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_1/AlarmKlock_JitendraRamoliya_Fault3_Alarm Klock"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_1/AlarmKlock_BeApart2_08alarmclock_3"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_1/AlarmKlock_JitendraRamoliya_Fault5_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_sajibdey_10_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_JitendraRamoliya_Fault8_Alarm Klock"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_2/AlarmKlock_NimainG_Fault4"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_JitendraRamoliya_Fault7_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_sajibdey_11_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_JitendraRamoliya_Fault9_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug3_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug1_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug9_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug6_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug5_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug7_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug4_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug2_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_12/Jamendo_shahzain93_jamendo - 01"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_12/Jamendo_sajibdey_1_jamendo"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_12/Jamendo_shahzain93_jamendo - 2"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 17"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 05"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 14"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 10"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 03"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 08"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 07"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 11"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 23"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 09"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_15/JustSit_NimainG_Fault12"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 19"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 23"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 22"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 25"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 18"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 20"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 21"

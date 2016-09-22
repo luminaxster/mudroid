@@ -1,0 +1,188 @@
+W/ActivityManager(  220): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_25/MunchLife_BeApart_MunchLife_bug_9
+W/ActivityManager(  221): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_25/MunchLife_BeApart_MunchLife_bug_10
+W/ActivityManager(  128): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_25/MunchLife_BeApart2_11MunchLife_1
+W/ActivityManager(  265): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_25/MunchLife_BeApart2_17MunchLife_7
+W/ActivityManager(  135): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_25/MunchLife_BeApart2_16MunchLife_6
+W/ActivityManager(  182): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_25/MunchLife_BeApart2_14MunchLife_4
+W/ActivityManager(   76): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_25/MunchLife_BeApart2_13MunchLife_3
+W/ActivityManager(  125): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_27/MunchLife_JitendraRamoliya_Fault2_MunchLifeActivity
+W/ActivityManager(  146): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_27/MunchLife_JitendraRamoliya_Fault11_MunchLifeActivity
+W/ActivityManager(  295): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_27/MunchLife_JitendraRamoliya_Fault10_MunchLifeActivity
+W/ActivityManager(   76): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_27/MunchLife_JitendraRamoliya_Fault6_MunchLifeActivity
+W/ActivityManager(  182): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_27/MunchLife_JitendraRamoliya_Fault12_MunchLifeActivity
+W/ActivityManager(  156): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_27/MunchLife_JitendraRamoliya_Fault1_MunchLifeActivity
+W/ActivityManager(  214): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_27/MunchLife_JitendraRamoliya_Fault5_MunchLifeActivity
+W/ActivityManager(  136): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_27/MunchLife_JitendraRamoliya_Fault3_MunchLifeActivity
+W/ActivityManager(  183): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_27/MunchLife_JitendraRamoliya_Fault4_MunchLifeActivity
+W/ActivityManager(  123): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_9/AndroidomaticKeyer_Bug8_AndroidomaticKeyerActivity
+W/ActivityManager(  170): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_9/AndroidomaticKeyer_Bug7_AndroidomaticKeyerActivity
+W/ActivityManager(  169): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_33/Tipster_NimainG_Fault17
+W/ActivityManager(  123): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_33/Tipster_NimainG_Fault18
+W/ActivityManager(  133): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_33/Tipster_NimainG_Fault2
+W/ActivityManager(  127): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug20_AndroidomaticKeyerActivity
+W/ActivityManager(  161): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug4_AndroidomaticKeyerActivity
+W/ActivityManager(  159): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug22_AndroidomaticKeyerActivity
+W/ActivityManager(  260): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug5_AndroidomaticKeyerActivity
+W/ActivityManager(  139): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug21_AndroidomaticKeyerActivity
+W/ActivityManager(  232): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug23_AndroidomaticKeyerActivity
+W/ActivityManager(  180): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug25_AndroidomaticKeyerActivity
+W/ActivityManager(  292): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_NimainG_Fault4
+W/ActivityManager(  172): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_NimainG_Fault10
+W/ActivityManager(  125): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_JitendraRamoliya_Fault9_MunchLifeActivity
+W/ActivityManager(  124): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_NimainG_Fault7
+W/ActivityManager(  148): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_NimainG_Fault6
+W/ActivityManager(  133): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_NimainG_Fault3
+W/ActivityManager(  173): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_NimainG_Fault2
+W/ActivityManager(  159): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_JitendraRamoliya_Fault8_MunchLifeActivity
+W/ActivityManager(  182): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_NimainG_Fault8
+W/ActivityManager(   76): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_28/MunchLife_NimainG_Fault1
+W/ActivityManager(  186): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_34/Tipster_sajibdey_15_Tipster
+W/ActivityManager(  136): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_34/Tipster_sajibdey_16_Tipster
+W/ActivityManager(  123): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_34/Tipster_sajibdey_13_Tipster
+W/ActivityManager(  246): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_34/Tipster_sajibdey_12_Tipster
+W/ActivityManager(  267): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_30/MunchLife_TechnoApp_Bug7_MunchLifeActivity
+W/ActivityManager(  136): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_30/MunchLife_TechnoApp_Bug5_MunchLifeActivity
+W/ActivityManager(  146): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_30/MunchLife_TechnoApp_Bug8_MunchLifeActivity
+W/ActivityManager(  175): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_30/Tipster_BeApart_03Tipster_2
+W/ActivityManager(  174): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_30/MunchLife_TechnoApp_Bug6_MunchLifeActivity
+W/ActivityManager(  157): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_30/Tipster_BeApart_05Tipster_4
+W/ActivityManager(  139): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug19_AndroidomaticKeyerActivity
+W/ActivityManager(  249): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug18_AndroidomaticKeyerActivity
+W/ActivityManager(  169): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug1_AndroidomaticKeyerActivity
+W/ActivityManager(  135): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug17_AndroidomaticKeyerActivity
+W/ActivityManager(  124): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug13_AndroidomaticKeyerActivity
+W/ActivityManager(  146): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug11_AndroidomaticKeyerActivity
+W/ActivityManager(  172): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug14_AndroidomaticKeyerActivity
+W/ActivityManager(  226): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_36/Tipster_TechnoApp_Bug3_Tipster
+W/ActivityManager(  145): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_36/WorldClock_BeApart_08worldclock_2
+W/ActivityManager(  135): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_36/Tipster_sajibdey_6_Tipster
+W/ActivityManager(  137): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_32/Tipster_JitendraRamoliya_Fault8_Tipster
+W/ActivityManager(  173): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_32/Tipster_NimainG_Fault10
+W/ActivityManager(   76): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_32/Tipster_JitendraRamoliya_Fault5_Tipster
+W/ActivityManager(  227): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_32/Tipster_NimainG_Fault14
+W/ActivityManager(  134): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_35/Tipster_sajibdey_25_Tipster
+W/ActivityManager(  128): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_35/Tipster_sajibdey_4_Tipster
+W/ActivityManager(   76): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_35/Tipster_sajibdey_2_Tipster
+W/ActivityManager(  288): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_35/Tipster_sajibdey_22_Tipster
+W/ActivityManager(  145): Crash of app com.android.lolcat running instrumentation ComponentInfo{com.android.lolcat/com.android.lolcat.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_22/LolCat_sajibday_5_LolcatActivity
+W/ActivityManager(  146): Crash of app com.angrydoughnuts.android.alarmclock running instrumentation ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_1/AlarmKlock_BeApart2_19alarmclock_7
+W/ActivityManager(   65): Crash of app com.angrydoughnuts.android.alarmclock running instrumentation ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_1/AlarmKlock_BeApart2_06alarmclock_1
+W/ActivityManager(   66): Crash of app com.angrydoughnuts.android.alarmclock running instrumentation ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_1/AlarmKlock_BeApart2_20alarmclock_8
+W/ActivityManager(  148): Crash of app com.angrydoughnuts.android.alarmclock running instrumentation ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_1/AlarmKlock_BeApart2_10alarmclock_5
+W/ActivityManager(  194): Crash of app com.android.lolcat running instrumentation ComponentInfo{com.android.lolcat/com.android.lolcat.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_20/LolCat_BeApart_38_LolcatBuilder
+W/ActivityManager(  265): Crash of app com.angrydoughnuts.android.alarmclock running instrumentation ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_2/AlarmKlock_NimainG_Fault2
+W/ActivityManager(  177): Crash of app com.angrydoughnuts.android.alarmclock running instrumentation ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_2/AlarmKlock_NimainG_Fault1
+W/ActivityManager(  136): Crash of app com.angrydoughnuts.android.alarmclock running instrumentation ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_2/AlarmKlock_NimainG_Fault3
+W/ActivityManager(  136): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_29/MunchLife_sajibday_3_MunchLifeActivity
+W/ActivityManager(  288): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_29/MunchLife_TechnoApp_Bug1_MunchLifeActivity
+W/ActivityManager(   76): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_29/MunchLife_TechnoApp_Bug3_MunchLifeActivity
+W/ActivityManager(  122): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_29/MunchLife_sajibday_8_MunchLifeActivity
+W/ActivityManager(  406): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_29/MunchLife_sajibday_2_MunchLifeActivity
+W/ActivityManager(  147): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_29/MunchLife_TechnoApp_Bug2_MunchLifeActivity
+W/ActivityManager(  168): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_29/MunchLife_NimainG_Fault9
+W/ActivityManager(  182): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_29/MunchLife_TechnoApp_Bug4_MunchLifeActivity
+W/ActivityManager(  147): Crash of app info.bpace.munchlife running instrumentation ComponentInfo{info.bpace.munchlife/info.bpace.munchlife.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_29/MunchLife_sajibday_1_MunchLifeActivity
+W/ActivityManager(  160): Crash of app com.android.lolcat running instrumentation ComponentInfo{com.android.lolcat/com.android.lolcat.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_21/LolCat_JitendraRamoliya_fault5_LolcatActivity
+W/ActivityManager(  148): Crash of app com.brocktice.JustSit running instrumentation ComponentInfo{com.brocktice.JustSit/com.brocktice.JustSit.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_15/JustSit_JitendraRamoliya_Fault4_JustSit
+W/ActivityManager(   65): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_JitendraRamoliya_Fault2_WorldClockActivity
+W/ActivityManager(  113): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_BeApart_09worldclock_3
+W/ActivityManager(  137): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/Tipster_TechnoApp_Bug5_Tipster
+W/ActivityManager(   65): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_BeApart2_05worldclock_5
+W/ActivityManager(  134): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_JitendraRamoliya_Fault4_WorldClockActivity
+W/ActivityManager(   65): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_BeApart2_02worldclock_2
+W/ActivityManager(  160): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_BeApart_07worldclock_1
+W/ActivityManager(  144): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/Tipster_sajibdey_7_Tipster

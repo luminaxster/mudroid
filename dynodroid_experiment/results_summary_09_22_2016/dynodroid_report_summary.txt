@@ -1,0 +1,16 @@
+Results of 40 batches out of 40
+Completed projects total:
+398
+Completed projects not tested total:
+1
+Check NotTestedProjects.txt
+Completed project tests total:
+397
+Failed to Test(not built or not prepared)  projects total:
+151
+check FailedToTestProjects.txt
+Evaluated projects total:
+246
+Crashed projects total:
+94
+
