@@ -1,0 +1,2 @@
+W/ActivityManager(  148): Crash of app com.brocktice.JustSit running instrumentation ComponentInfo{com.brocktice.JustSit/com.brocktice.JustSit.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_15/JustSit_JitendraRamoliya_Fault4_JustSit

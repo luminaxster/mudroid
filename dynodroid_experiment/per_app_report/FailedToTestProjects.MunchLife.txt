@@ -1,0 +1,26 @@
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_25/MunchLife_hamzahafeez2000_MunchLife - 04"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_25/MunchLife_hamzahafeez2000_MunchLife - 03"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_27/MunchLife_hamzahafeez2000_MunchLife - 25"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 21"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 08"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 23"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 17"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 13"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 18"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 07"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 10"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 19"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_26/MunchLife_hamzahafeez2000_MunchLife - 09"

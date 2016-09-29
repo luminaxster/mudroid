@@ -1,0 +1,8 @@
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_9/AndroidomaticKeyer_Bug6_AndroidomaticKeyerActivity"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_8/AndroidomaticKeyer_Bug2_AndroidomaticKeyerActivity"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_7/AndroidomaticKeyer_Bug12_AndroidomaticKeyerActivity"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_6/AndroidomaticKeyer_Bug10_AndroidomaticKeyerActivity"

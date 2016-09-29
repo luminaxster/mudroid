@@ -1,0 +1,24 @@
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_13/JustSit_BeApart_JustSit_bug_1"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_14/JustSit_JitendraRamoliya_Fault14_JustSit"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_16/JustSit_NimainG_Fault8"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_17/JustSit_shahzain932_JustSit - 05"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_17/JustSit_shahzain932_JustSit - 03"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_17/JustSit_shahzain932_JustSit - 18"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_17/JustSit_shahzain932_JustSit - 04"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_17/JustSit_sajibdey_5_JustSit"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_19/JustSit_TechnoApp_Bug6_JustSit"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_18/JustSit_shahzain93_JustSit-04"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_18/JustSit_shahzain932_JustSit - 24"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_15/JustSit_NimainG_Fault12"

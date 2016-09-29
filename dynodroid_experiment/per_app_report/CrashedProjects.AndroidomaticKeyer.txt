@@ -1,0 +1,32 @@
+W/ActivityManager(  123): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_9/AndroidomaticKeyer_Bug8_AndroidomaticKeyerActivity
+W/ActivityManager(  170): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_9/AndroidomaticKeyer_Bug7_AndroidomaticKeyerActivity
+W/ActivityManager(  127): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug20_AndroidomaticKeyerActivity
+W/ActivityManager(  161): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug4_AndroidomaticKeyerActivity
+W/ActivityManager(  159): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug22_AndroidomaticKeyerActivity
+W/ActivityManager(  260): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug5_AndroidomaticKeyerActivity
+W/ActivityManager(  139): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug21_AndroidomaticKeyerActivity
+W/ActivityManager(  232): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug23_AndroidomaticKeyerActivity
+W/ActivityManager(  180): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_8/AndroidomaticKeyer_Bug25_AndroidomaticKeyerActivity
+W/ActivityManager(  139): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug19_AndroidomaticKeyerActivity
+W/ActivityManager(  249): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug18_AndroidomaticKeyerActivity
+W/ActivityManager(  169): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug1_AndroidomaticKeyerActivity
+W/ActivityManager(  135): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug17_AndroidomaticKeyerActivity
+W/ActivityManager(  124): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug13_AndroidomaticKeyerActivity
+W/ActivityManager(  146): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug11_AndroidomaticKeyerActivity
+W/ActivityManager(  172): Crash of app com.templaro.opsiz.aka running instrumentation ComponentInfo{com.templaro.opsiz.aka/com.templaro.opsiz.aka.EmmaInstrument2.EmmaInstrumentation}
+./appsDoneBatch_7/AndroidomaticKeyer_Bug14_AndroidomaticKeyerActivity

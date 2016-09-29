@@ -1,0 +1,18 @@
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_13/Jamendo_shahzain93_jamendo - 3"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_13/Jamendo_shahzain93_jamendo - 4"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_13/Jamendo_shahzain93_jamendo - 7"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_13/Jamendo_shahzain93_jamendo - 9"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_10/Jamendo_BeApart_25_jamendo"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_11/Jamendo_JitendraRamoliya_fault12_jamendo"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_12/Jamendo_shahzain93_jamendo - 01"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_12/Jamendo_sajibdey_1_jamendo"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_12/Jamendo_shahzain93_jamendo - 2"

@@ -1,0 +1,14 @@
+W/ActivityManager(  145): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_36/WorldClock_BeApart_08worldclock_2
+W/ActivityManager(   65): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_JitendraRamoliya_Fault2_WorldClockActivity
+W/ActivityManager(  113): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_BeApart_09worldclock_3
+W/ActivityManager(   65): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_BeApart2_05worldclock_5
+W/ActivityManager(  134): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_JitendraRamoliya_Fault4_WorldClockActivity
+W/ActivityManager(   65): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_BeApart2_02worldclock_2
+W/ActivityManager(  160): Crash of app com.irahul.worldclock running instrumentation ComponentInfo{com.irahul.worldclock/com.irahul.worldclock.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/WorldClock_BeApart_07worldclock_1

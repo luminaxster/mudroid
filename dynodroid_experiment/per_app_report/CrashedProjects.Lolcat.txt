@@ -1,0 +1,6 @@
+W/ActivityManager(  145): Crash of app com.android.lolcat running instrumentation ComponentInfo{com.android.lolcat/com.android.lolcat.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_22/LolCat_sajibday_5_LolcatActivity
+W/ActivityManager(  194): Crash of app com.android.lolcat running instrumentation ComponentInfo{com.android.lolcat/com.android.lolcat.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_20/LolCat_BeApart_38_LolcatBuilder
+W/ActivityManager(  160): Crash of app com.android.lolcat running instrumentation ComponentInfo{com.android.lolcat/com.android.lolcat.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_21/LolCat_JitendraRamoliya_fault5_LolcatActivity

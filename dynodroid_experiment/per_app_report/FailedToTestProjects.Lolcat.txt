@@ -1,0 +1,38 @@
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_10 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_06 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_09 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain932_LolcatBuilder - 17"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_07 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain932_LolcatBuilder - 12"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_04 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain93_05 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain932_LolcatBuilder - 15"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_23/LolCat_shahzain932_LolcatBuilder - 11"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_22/LolCat_shahzain93_02 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_22/LolCat_shahzain93_03 LolcatBuilder"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 19"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 23"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 22"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 25"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 18"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 20"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_24/LolCat_shahzain932_LolcatBuilder - 21"

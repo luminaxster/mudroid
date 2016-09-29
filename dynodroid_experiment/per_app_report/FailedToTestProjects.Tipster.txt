@@ -1,0 +1,36 @@
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_34/Tipster_sajibdey_10_Tipster"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_34/Tipster_sajibdey_11_Tipster"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_30/Tipster_hamzahafeez2000_Tipster - 01"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_30/Tipster_hamzahafeez2000_Tipster - 02"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_36/Tipster_TechnoApp_Bug4_Tipster"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_36/Tipster_sajibdey_8_Tipster"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_32/Tipster_hamzahafeez2000_Tipster - 25"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_32/Tipster_hamzahafeez2000_Tipster - 24"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 17"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 05"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 14"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 10"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 03"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 08"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 07"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 11"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 23"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_31/Tipster_hamzahafeez2000_Tipster - 09"

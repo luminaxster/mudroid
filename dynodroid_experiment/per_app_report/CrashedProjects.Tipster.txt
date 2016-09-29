@@ -1,0 +1,42 @@
+W/ActivityManager(  169): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_33/Tipster_NimainG_Fault17
+W/ActivityManager(  123): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_33/Tipster_NimainG_Fault18
+W/ActivityManager(  133): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_33/Tipster_NimainG_Fault2
+W/ActivityManager(  186): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_34/Tipster_sajibdey_15_Tipster
+W/ActivityManager(  136): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_34/Tipster_sajibdey_16_Tipster
+W/ActivityManager(  123): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_34/Tipster_sajibdey_13_Tipster
+W/ActivityManager(  246): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_34/Tipster_sajibdey_12_Tipster
+W/ActivityManager(  175): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_30/Tipster_BeApart_03Tipster_2
+W/ActivityManager(  157): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_30/Tipster_BeApart_05Tipster_4
+W/ActivityManager(  226): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_36/Tipster_TechnoApp_Bug3_Tipster
+W/ActivityManager(  135): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_36/Tipster_sajibdey_6_Tipster
+W/ActivityManager(  137): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_32/Tipster_JitendraRamoliya_Fault8_Tipster
+W/ActivityManager(  173): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_32/Tipster_NimainG_Fault10
+W/ActivityManager(   76): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_32/Tipster_JitendraRamoliya_Fault5_Tipster
+W/ActivityManager(  227): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_32/Tipster_NimainG_Fault14
+W/ActivityManager(  134): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_35/Tipster_sajibdey_25_Tipster
+W/ActivityManager(  128): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_35/Tipster_sajibdey_4_Tipster
+W/ActivityManager(   76): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_35/Tipster_sajibdey_2_Tipster
+W/ActivityManager(  288): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_35/Tipster_sajibdey_22_Tipster
+W/ActivityManager(  137): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/Tipster_TechnoApp_Bug5_Tipster
+W/ActivityManager(  144): Crash of app com.examples.tipcalc running instrumentation ComponentInfo{com.examples.tipcalc/com.examples.tipcalc.EmmaInstrument.EmmaInstrumentation}
+./appsDoneBatch_37/Tipster_sajibdey_7_Tipster

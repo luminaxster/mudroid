@@ -1,0 +1,96 @@
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_07 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_02 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_04 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_09 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_06 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_10 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_11 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_03 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_08 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_4/AlarmKlock_shahzain93_05 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_shahzain93_13 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug13_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_shahzain93_15 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug11_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug15_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug10_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug14_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug16_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_TechnoApp_Bug12_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_5/AlarmKlock_shahzain93_12 alarmclock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_14_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_1_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_2_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_3_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_12_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_6_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_9_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_8_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_4_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_3/AlarmKlock_sajibdey_13_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug4_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug1_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug9_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug18_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug3_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug6_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug7_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug8_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_6/AlarmKlock_TechnoApp_Bug17_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_1/AlarmKlock_JitendraRamoliya_Fault3_Alarm Klock"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_1/AlarmKlock_BeApart2_08alarmclock_3"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_1/AlarmKlock_JitendraRamoliya_Fault5_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_sajibdey_10_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_JitendraRamoliya_Fault8_Alarm Klock"
+:INFO:Preparation UnSucessfull..
+At project: "./appsDoneBatch_2/AlarmKlock_NimainG_Fault4"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_JitendraRamoliya_Fault7_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_sajibdey_11_Alarm Klock"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_2/AlarmKlock_JitendraRamoliya_Fault9_Alarm Klock"

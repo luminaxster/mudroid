@@ -1,0 +1,56 @@
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 25"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 30"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 29"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 28"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 32"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 18"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 19"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 26"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 23"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_39/WorldClock_shahzain93_worldclock - 21"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 10"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 06"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 14"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 17"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 08"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 04"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 02"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 03"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 16"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_38/WorldClock_shahzain93_worldclock - 13"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug3_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug1_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug9_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug6_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug5_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug7_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug4_WorldClockActivity"
+:ERROR:Build Ussucessfull..Exiting
+At project: "./appsDoneBatch_40/WorldClock_TechnoApp_Bug2_WorldClockActivity"

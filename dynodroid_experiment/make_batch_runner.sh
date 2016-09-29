@@ -15,9 +15,11 @@ do
  echo "ant run" >> batch_runner.sh
  echo "ls apps | while read project; do mv \"apps/\$project\" appsDoneBatch_$current_batch; done">> batch_runner.sh
  echo "mv workingDir appsDoneBatch_$current_batch">> batch_runner.sh
+ echo "curl -X POST http://textbelt.com/text -d number=5403132647  -d \"message=Done with Dynodroid batch $current_batch of $batch_total\"">> batch_runner.sh
 
  current_batch=$((current_batch+1))
 
 done;
+
 echo "#done" >> batch_runner.sh
 chmod u+x batch_runner.sh
